@@ -1,0 +1,42 @@
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.exe.config
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.exe
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.pdb
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csprojAssemblyReference.cache
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\MainWindow.baml
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\MainWindow.g.cs
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\App.g.cs
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto_MarkupCompile.cache
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.g.resources
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.Properties.Resources.resources
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csproj.GenerateResource.cache
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csproj.CoreCompileInputs.cache
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.exe
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Kompprog\5. projekt\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.pdb
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csprojAssemblyReference.cache
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\MainWindow.baml
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\MainWindow.g.cs
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\App.g.cs
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto_MarkupCompile.cache
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.g.resources
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.Properties.Resources.resources
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csproj.GenerateResource.cache
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csproj.CoreCompileInputs.cache
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.exe
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.pdb
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.exe.config
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.exe
+C:\Users\p\Desktop\Kompprogi\SEGITSÉG\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.pdb
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.exe.config
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.exe
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\bin\Debug\KonyvtariNyilvantarto.pdb
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csprojAssemblyReference.cache
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\MainWindow.baml
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\MainWindow.g.cs
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\App.g.cs
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto_MarkupCompile.cache
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.g.resources
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.Properties.Resources.resources
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csproj.GenerateResource.cache
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.csproj.CoreCompileInputs.cache
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.exe
+D:\Péter\Prog\Könyvtáros project\Konyvtari-nyilvantarto-main\Konyvtari-nyilvantarto-main\KonyvtariNyilvantarto\KonyvtariNyilvantarto\obj\Debug\KonyvtariNyilvantarto.pdb
